@@ -1,4 +1,4 @@
-This project is built using React Only for Learning Purpose
+This Repo is basically for revising concept and Learning purposes
 <br>
 A sample React application demonstrating modern web development techniques
 <br>
